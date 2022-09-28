@@ -8,28 +8,28 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "Dentsu VI",
+    url: "https://www.dentsucreative.com/cases/dentsuvi",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "Dentsu VI was designed to help brands unlock true brand intimacy in an increasingly digital world.",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: "The Unfiltered history tour",
+    url: "https://www.dentsucreative.com/cases/vice-world-news",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "The Unfiltered History Tour highlights the most disputed artefacts inside the British Museum, told from the perspective of the communities they were removed from.",
   },
   {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
+    text: "The Bunny",
+    url: "https://www.dentsucreative.com/cases/amex-bunny",
     description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
+      "The Amex Business Card Chronicles is a series of whimsical, long-form spots telling the stories of four business owners navigating the challenges that accompany growing businesses.",
   },
   {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
+    text: "Road Tales",
+    url: "https://www.dentsucreative.com/cases/volkswagen",
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "We created an award-winning, location-based, interactive audiobook to transform car rides into magical journeys.",
   },
 ]
 
